@@ -2,3 +2,6 @@ include:
   - ".well-known"
 plugins:
   - jekyll-seo-tag
+title: "Geeks For Humanity"
+tagline: "Geeks For Humanity Tagline"
+description: "Geeks For Humanity Website Description"
