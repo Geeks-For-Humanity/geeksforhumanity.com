@@ -2,7 +2,10 @@ include:
   - ".well-known"
 plugins:
   - jekyll-seo-tag
+layout: post
 title: "Geeks For Humanity"
 description: "Geeks coming together for common good"
+url: "https://geeksforhumanity.com"
 image: "/GeeksForHumanity.PNG"
 logo: "/GeeksForHumanity.PNG"
+alt: "Geeks For Humanity Logo"
